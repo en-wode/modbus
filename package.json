@@ -1,0 +1,19 @@
+{
+  "name": "yangfan",
+  "version": "1.0.0",
+  "description": "modbus-plc",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "modbus"
+  ],
+  "author": "yangfan",
+  "license": "ISC",
+  "dependencies": {
+    "js-crc": "^0.2.0",
+    "mysql": "^2.15.0",
+    "node-modbus": "^4.3.1"
+  }
+}
